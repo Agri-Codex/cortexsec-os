@@ -1,0 +1,14 @@
+kali-linux-everything
+gnome-shell
+ubuntu-desktop-minimal
+libreoffice-gtk3
+libreoffice-calc
+libreoffice-impress
+gimp
+vlc
+thunderbird
+cotx-core
+cotx-assist
+cotx-search
+cotx-voice
+# Golden Chrome will be installed via first-boot script (to ensure latest version)
