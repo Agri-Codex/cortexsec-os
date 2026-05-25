@@ -1,4 +1,5 @@
 # 🧠 CortexSec OS
+![Uploading CortexSec_OS_PRO_edition_wallpaper_dark_cybersecu-1779439417968.png…]()
 
 **AI-augmented operating system for cybersecurity professionals and everyday users. Built on Kali Linux. Fully open-source, privacy-first.**
 
